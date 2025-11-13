@@ -1,4 +1,4 @@
-# 1182.02 FE Design Project
+# Quantifi inventory tracker
 This repository has all the files pertaining to my ENGR 1182.02 FE design project. I developed an IOT multi-object scale for ingredient inventorying for resturaunts. Accompanying it is a crossplatform responsive Flutter web app using a Firebase realtime database. The TDR, written in Typst, is also present with all it's associated media. 
 
 ## Some Renders
